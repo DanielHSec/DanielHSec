@@ -1,149 +1,126 @@
 <div align="center">
 
-# Olá! Eu sou Daniel Abreu 👋
+# Daniel Abreu
 
-### Engenharia de Software • Desenvolvimento • Automação • Infraestrutura • Segurança
+### Engenharia de Software · Desenvolvimento · Automação · Infraestrutura · Segurança
 
-**Transformo necessidades reais em aplicações, ferramentas e processos mais organizados, seguros e eficientes.**
+**Crio soluções que conectam software, processos e infraestrutura — da identificação do problema à implantação e manutenção.**
 
 <p>
-  <a href="https://daniel-abreu.vercel.app/"><img alt="Portfólio" src="https://img.shields.io/badge/Portf%C3%B3lio-Visitar-0F172A?style=for-the-badge&logo=vercel&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/danielhenrique-cybersecurity/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/DanielHSec?tab=repositories"><img alt="Repositórios" src="https://img.shields.io/badge/GitHub-Reposit%C3%B3rios-24292F?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://daniel-abreu.vercel.app/"><img alt="Acessar portfólio" src="https://img.shields.io/badge/Portf%C3%B3lio-Acessar-0F172A?style=for-the-badge&logo=vercel&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/danielhenrique-cybersecurity/"><img alt="Perfil no LinkedIn" src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/DanielHSec?tab=repositories"><img alt="Repositórios no GitHub" src="https://img.shields.io/badge/GitHub-Projetos-24292F?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
-<sub>Brazil 🇧🇷 · Software Engineering student · Building practical solutions</sub>
+<sub>🇧🇷 Brasil · Estudante de Engenharia de Software · Projetos práticos, automação e tecnologia aplicada</sub>
 
 </div>
 
 ---
 
-## 👨‍💻 Sobre mim
+## Sobre mim
 
-Sou **estudante de Engenharia de Software** com interesse especial na conexão entre **desenvolvimento, suporte técnico, infraestrutura, redes e segurança da informação**.
+Sou estudante de **Engenharia de Software**, com atuação prática e interesse em **desenvolvimento de aplicações, automação, suporte técnico, redes, infraestrutura e segurança da informação**.
 
-Gosto de ir além da interface: entender o problema, modelar os dados, automatizar o processo, proteger os acessos, implantar a solução e pensar em como mantê-la funcionando.
+Gosto de entender o processo de ponta a ponta: levantar requisitos, estruturar os dados, escrever código, automatizar tarefas repetitivas, proteger os acessos, implantar e acompanhar o funcionamento da solução.
 
-- **Software e web:** aplicações internas, interfaces responsivas, APIs, integrações e sistemas de gestão.
-- **Automação:** Python, automação de navegador, rotinas operacionais e processamento de documentos.
-- **Infraestrutura e operações:** Windows, Linux, Docker, redes, monitoramento e serviços self-hosted.
-- **Segurança:** autenticação, MFA, autorização, isolamento de dados, configurações seguras e laboratórios de estudo.
-- **Qualidade:** versionamento, testes, validação, documentação e evolução incremental.
+Meu foco está em **resolver problemas reais**, com interfaces claras, manutenção viável, documentação e melhorias contínuas.
 
-> Meu objetivo é construir soluções que sejam úteis no dia a dia — não apenas projetos que funcionam em uma demonstração.
+## Áreas em que desenvolvo projetos
 
-## 🧰 Tecnologias e ferramentas
+| Área | O que faço e estudo |
+| :--- | :--- |
+| **Desenvolvimento de software** | Aplicações web, APIs, interfaces responsivas e sistemas de gestão |
+| **Automação** | Python, Selenium, rotinas operacionais, integração de ferramentas e processamento de documentos |
+| **Infraestrutura e suporte** | Diagnóstico de Windows/Linux, redes, Docker, homelab e monitoramento de serviços |
+| **Segurança aplicada** | Autenticação, MFA, controle de acesso, proteção de dados e laboratórios autorizados |
+| **Engenharia e qualidade** | Git, testes, CI/CD, versionamento, documentação e análise de falhas |
 
-### Desenvolvimento e automação
+## Stack e ferramentas
+
+**Linguagens, aplicações e automação**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![React](https://img.shields.io/badge/React-149ECA?style=flat-square&logo=react&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
 
-### Dados, back-end e plataformas
+**Dados, deploy e infraestrutura**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=black)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
-### Sistemas, infraestrutura e redes
+**Em laboratórios e estudos:** Wireshark, Nmap, Kali Linux, Home Assistant, Portainer, Tailscale e ferramentas de monitoramento.
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Home Assistant](https://img.shields.io/badge/Home_Assistant-18BCF2?style=flat-square&logo=homeassistant&logoColor=white)
-
-**Ferramentas complementares:** Portainer, Uptime Kuma, MQTT/Mosquitto, Tailscale, Apache Guacamole e AdGuard Home.
-
-**Redes e segurança (estudos e ambientes autorizados):** Nmap, Wireshark, Kali Linux, análise de tráfego e boas práticas de hardening.
-
-<sub>As ferramentas acima representam uso em projetos, estudos e laboratórios; não significam o mesmo nível de experiência em todas elas.</sub>
+<sub>Essas tecnologias representam experiências em projetos, estudos ou laboratório — não o mesmo nível de especialização em todas elas.</sub>
 
 ---
 
-## 🚀 Projetos em destaque
+## Projetos em destaque
 
-### 🌐 [VerificarSite — Verificador de Confiabilidade de Sites](https://github.com/DanielHSec/VerificarSite)
+### 🌐 [VerificarSite — análise de informações sobre sites](https://github.com/DanielHSec/VerificarSite)
 
-**Projeto público | Python · Flask · Selenium · HTML · CSS**
+**Repositório público · Python · Flask · Selenium**
 
-Aplicação web que recebe uma URL e utiliza automação de navegador para apoiar a inspeção de informações sobre sites, exibindo resultados em uma interface simples.
+Aplicação web que automatiza a consulta a um serviço de verificação de sites e apresenta as informações obtidas em uma interface Flask.
 
-**O que demonstra:** automação web, integração entre back-end e interface, tratamento de URLs e estruturação de um projeto Python.
+O projeto explora automação de navegador, integração Python/web e extração de resultados. **É uma ferramenta auxiliar, não um certificado de segurança ou garantia de confiabilidade de uma URL.**
 
-[Explorar código e documentação →](https://github.com/DanielHSec/VerificarSite)
+**[Ver código e instruções de execução →](https://github.com/DanielHSec/VerificarSite)**
 
-### 💼 [Portfólio Profissional](https://daniel-abreu.vercel.app/)
+### 💼 [Portfólio profissional — Daniel Abreu](https://daniel-abreu.vercel.app/)
 
-**Site público | Next.js · React · TypeScript · Tailwind CSS**
+**Site público · Next.js · React · TypeScript · Tailwind CSS**
 
-Portfólio que reúne minha apresentação, áreas de atuação e projetos. Desenvolvido com foco em navegação, responsividade, organização de conteúdo e uma experiência clara para quem deseja conhecer meu trabalho.
+Site com apresentação profissional, projetos e áreas de atuação, construído com foco em organização visual, navegação e responsividade.
 
-[Visitar portfólio →](https://daniel-abreu.vercel.app/)
+**[Conhecer o portfólio →](https://daniel-abreu.vercel.app/)**
 
-### 🔒 Outros sistemas e soluções em desenvolvimento
+### 🔐 Sistemas e experiências em repositórios privados
 
-Parte do meu trabalho acontece em **repositórios privados**, especialmente por envolver processos internos, protótipos e dados que não devem ser publicados. Estes são resumos técnicos, sem expor informações operacionais sensíveis:
+Também desenvolvo soluções cujo código e dados não são públicos. Alguns exemplos do tipo de trabalho realizado:
 
-| Projeto | Objetivo e funcionalidades | Tecnologias e práticas |
-| --- | --- | --- |
-| **Central TI** | Gestão de inventário, chamados, SLA, mudanças, orçamentos, indicadores e rotinas de governança de TI. | React, Vite, Supabase, PostgreSQL, autenticação, MFA, RLS e otimização de consultas. |
-| **DanielOS** | Plataforma pessoal em evolução para tarefas, projetos, notas, hábitos, foco, agenda e controle financeiro manual. | React, TypeScript, Vite, Supabase, Cloudflare Workers, testes e separação de dados por usuário. |
-| **AgendaSST** | Plataforma colaborativa para organizar empresas, colaboradores, clínicas, exames e agendamentos de saúde e segurança do trabalho. | Next.js, NestJS, TypeScript, PostgreSQL, Prisma e Docker. |
-| **E-commerce demonstrativo** | Protótipo de loja com catálogo, carrinho, autenticação, pedidos, administração e fluxos simulados de pagamento e frete. | Next.js, React, TypeScript, Prisma, PostgreSQL, testes unitários e E2E. |
-| **Automações e documentos ocupacionais** | Ferramentas para reduzir digitação repetitiva, estruturar solicitações e classificar/organizar documentos. | Python, Flask, automação web, processamento de PDFs e OCR. |
-| **Homelab e serviços self-hosted** | Laboratório de servidores, contêineres, acesso remoto, observabilidade e resolução de problemas. | Debian, Docker, Portainer, redes, Tailscale, Home Assistant e monitoramento. |
+| Projeto ou frente | Escopo técnico |
+| :--- | :--- |
+| **DanielOS** | Sistema pessoal com tarefas, agenda, projetos, notas, hábitos, foco, finanças manuais, autenticação e backups. React, TypeScript, Supabase e Cloudflare Workers. |
+| **Central TI** | Gestão de processos de TI, inventário, chamados, indicadores, fluxos de trabalho e controles de acesso. |
+| **AgendaSST** | Plataforma em desenvolvimento para rotinas de agendamentos e saúde e segurança do trabalho. Next.js, NestJS e PostgreSQL. |
+| **Automação operacional** | Scripts e aplicações para reduzir atividades repetitivas, organizar documentos e apoiar rotinas internas. |
+| **Homelab** | Experimentação com Linux, Docker, redes, acesso remoto, monitoramento e serviços self-hosted. |
 
-**Nota:** sistemas internos e protótipos podem estar em diferentes estágios de desenvolvimento ou validação. A descrição de uma funcionalidade não implica disponibilidade pública nem uso em produção.
+*Repositórios privados e projetos em evolução não devem ser interpretados como produtos públicos, sistemas concluídos ou funcionalidades integralmente homologadas.*
 
 ---
 
-## 🛡️ Como penso engenharia e segurança
+## Como trabalho
 
-Busco aplicar práticas proporcionais à realidade de cada projeto:
+- **Entender antes de implementar:** requisitos, fluxos, restrições e impacto para quem usa.
+- **Pensar na segurança desde o início:** autenticação, privilégios mínimos, dados pessoais e configuração adequada.
+- **Validar o que foi entregue:** testes, erros conhecidos, revisão e conferência do funcionamento.
+- **Planejar a operação:** infraestrutura, documentação, monitoramento e manutenção.
+- **Evoluir de forma incremental:** soluções úteis e melhoradas com base em problemas observados.
 
-- **Segurança por padrão:** princípio do menor privilégio, MFA quando adequado, controles de acesso, RLS e cuidados com credenciais e dados pessoais.
-- **Dados consistentes:** modelagem relacional, migrações versionadas, validação de entradas e regras de negócio também no servidor.
-- **Desempenho com critério:** paginação, filtros no banco de dados, consultas sob demanda e atenção ao consumo de recursos.
-- **Entrega responsável:** Git, revisões, testes automatizados, ambientes de validação e procedimentos de implantação.
-- **Operação e continuidade:** logs úteis, monitoramento, backups, documentação e análise de falhas.
+## Em constante aprendizado
 
-Tenho interesse tanto no **desenvolvimento da solução** quanto no ambiente em que ela será executada e mantida.
-
-## 📚 Em evolução constante
-
-Atualmente, sigo aprofundando meus estudos em **arquitetura de software, APIs e integrações, bancos de dados, testes, Linux, redes, contêineres, segurança de aplicações e automação inteligente**.
-
-Também exploro projetos práticos em infraestrutura e serviços self-hosted para consolidar conceitos fora do ambiente puramente teórico.
-
-## 🤝 Vamos nos conectar?
-
-Se você trabalha com desenvolvimento, infraestrutura, automação, suporte técnico ou segurança, será um prazer trocar experiências e conhecer projetos interessantes.
-
-<p>
-  <a href="https://www.linkedin.com/in/danielhenrique-cybersecurity/"><strong>LinkedIn</strong></a> ·
-  <a href="https://daniel-abreu.vercel.app/"><strong>Portfólio</strong></a> ·
-  <a href="https://github.com/DanielHSec?tab=repositories"><strong>Repositórios no GitHub</strong></a>
-</p>
+Aprofundo meus estudos em **arquitetura de software, APIs, bancos de dados, automação, Linux, redes, contêineres, testes e segurança de aplicações**. Procuro transformar esse aprendizado em projetos documentados e experiências práticas.
 
 ---
 
 <div align="center">
 
-<sub>Aprender. Construir. Testar. Documentar. Melhorar continuamente.</sub>
+### Vamos nos conectar?
+
+<a href="https://www.linkedin.com/in/danielhenrique-cybersecurity/">LinkedIn</a> ·
+<a href="https://daniel-abreu.vercel.app/">Portfólio</a> ·
+<a href="https://github.com/DanielHSec?tab=repositories">Repositórios</a>
+
+<sub>Aprender · Construir · Testar · Documentar · Evoluir</sub>
 
 </div>
