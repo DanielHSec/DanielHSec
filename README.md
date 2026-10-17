@@ -6,7 +6,7 @@
 
 Construindo soluções práticas, da descoberta do problema à implementação, testes e operação.
 
-[![Portfolio](https://img.shields.io/badge/PORTF%C3%93LIO-DANIEL%20ABREU-BC94FA?style=for-the-badge&labelColor=130D22&logo=vercel&logoColor=white)](https://daniel-abreu.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/PORTF%C3%93LIO-DANIEL%20ABREU-BC94FA?style=for-the-badge&labelColor=130D22&logo=vercel&logoColor=white)](https://www.danielhabreu.dev/)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONECTAR-BC94FA?style=for-the-badge&labelColor=130D22&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danielhenrique-cybersecurity/)
 [![Repositorios](https://img.shields.io/badge/GITHUB-REPOSIT%C3%93RIOS-BC94FA?style=for-the-badge&labelColor=130D22&logo=github&logoColor=white)](https://github.com/DanielHSec?tab=repositories)
 
@@ -65,7 +65,7 @@ Gosto de entender o contexto antes de codificar: mapear o processo, definir limi
 
 | Projeto | O que você encontra | Tecnologias | Acesso |
 | :--- | :--- | :--- | :--- |
-| **[Portfólio profissional](https://daniel-abreu.vercel.app/)** | Apresentação, estudos de caso e projetos, com interface responsiva e identidade visual escura/violeta. | Next.js, React, TypeScript | [Site](https://daniel-abreu.vercel.app/) |
+| **[Portfólio profissional](https://www.danielhabreu.dev/)** | Apresentação, estudos de caso e projetos, com interface responsiva e identidade visual escura/violeta. | Next.js, React, TypeScript | [Site](https://www.danielhabreu.dev/) |
 | **[VerificarSite](https://github.com/DanielHSec/VerificarSite)** | Aplicação experimental que consulta informações de um site por automação de navegador. Não equivale a auditoria de segurança. | Python, Flask, Selenium | [Código](https://github.com/DanielHSec/VerificarSite) |
 
 ### Projetos e sistemas de acesso privado
@@ -106,7 +106,7 @@ Arquitetura de aplicações, APIs, bancos relacionais, automação confiável, i
 
 **Vamos trocar ideias sobre desenvolvimento, automação e infraestrutura?**
 
-[Portfólio](https://daniel-abreu.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/danielhenrique-cybersecurity/) · [Repositórios](https://github.com/DanielHSec?tab=repositories)
+[Portfólio](https://www.danielhabreu.dev/) · [LinkedIn](https://www.linkedin.com/in/danielhenrique-cybersecurity/) · [Repositórios](https://github.com/DanielHSec?tab=repositories)
 
 <sub>Construir com propósito. Documentar com clareza. Melhorar continuamente.</sub>
 
