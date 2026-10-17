@@ -8,6 +8,7 @@ Construindo soluções práticas, da descoberta do problema à implementação, 
 
 [![Portfolio](https://img.shields.io/badge/PORTF%C3%93LIO-DANIEL%20ABREU-BC94FA?style=for-the-badge&labelColor=130D22&logo=vercel&logoColor=white)](https://www.danielhabreu.dev/)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONECTAR-BC94FA?style=for-the-badge&labelColor=130D22&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danielhenrique-cybersecurity/)
+[![Contato](https://img.shields.io/badge/E--MAIL-CONTATO-BC94FA?style=for-the-badge&labelColor=130D22&logo=gmail&logoColor=white)](mailto:contato@danielhabreu.dev)
 [![Repositorios](https://img.shields.io/badge/GITHUB-REPOSIT%C3%93RIOS-BC94FA?style=for-the-badge&labelColor=130D22&logo=github&logoColor=white)](https://github.com/DanielHSec?tab=repositories)
 
 <sub>Brasil · Estudante de Engenharia de Software · Documentação, qualidade e evolução contínua</sub>
@@ -106,7 +107,7 @@ Arquitetura de aplicações, APIs, bancos relacionais, automação confiável, i
 
 **Vamos trocar ideias sobre desenvolvimento, automação e infraestrutura?**
 
-[Portfólio](https://www.danielhabreu.dev/) · [LinkedIn](https://www.linkedin.com/in/danielhenrique-cybersecurity/) · [Repositórios](https://github.com/DanielHSec?tab=repositories)
+[Portfólio](https://www.danielhabreu.dev/) · [LinkedIn](https://www.linkedin.com/in/danielhenrique-cybersecurity/) · [Repositórios](https://github.com/DanielHSec?tab=repositories) · [E-mail](mailto:contato@danielhabreu.dev)
 
 <sub>Construir com propósito. Documentar com clareza. Melhorar continuamente.</sub>
 
